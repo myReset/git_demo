@@ -13,6 +13,7 @@ public class Main {
       System.out.println(i);
       System.out.println("1");
       System.out.println("666");
+      System.out.println();
     }
   }
 }
