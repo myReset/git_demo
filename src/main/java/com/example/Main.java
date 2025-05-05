@@ -11,6 +11,7 @@ public class Main {
     System.out.println("wos");
     for (int i = 0; i < 100; i++) {
       System.out.println(i);
+      System.out.println("1");
     }
   }
 }
